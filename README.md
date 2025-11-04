@@ -1,6 +1,7 @@
 # prenotazionideda
 Prenotazioni ufficio irpino
 
+<!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -177,3 +178,4 @@ function saveReservation() {
 
 </body>
 </html>
+
